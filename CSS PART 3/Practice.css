@@ -1,0 +1,25 @@
+#outer {
+  height: 200px;
+  width: 70px;
+  border: 3px double black;
+  padding: 2px;
+}
+
+.inner {
+  height: 50px;
+  width: 50px;
+  border: 2px solid black;
+  margin: 10px;
+  border-radius: 50%;
+
+}
+
+#red:hover{
+  background-color:red;
+}
+#yellow:hover{
+  background-color: yellow;
+}
+#green:hover{
+  background-color: green;
+}
