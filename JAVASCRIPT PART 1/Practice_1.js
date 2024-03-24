@@ -19,6 +19,17 @@
 // let newNum = ++num;
 // console.log(newNum)
 
-let isAdult = true;
-console.log(isAdult)
-console.log(typeof isAdult)
+// let isAdult = true;
+// console.log(isAdult)
+// console.log(typeof isAdult)
+
+// let Name = "Pranjal Thakre";
+// console.log(Name.length)
+
+// let firstName = "Pranjal";
+// console.log(firstName[0])
+// console.log(firstName[6])
+
+
+let Name = "apnacollege" + 123;
+console.log(Name)
