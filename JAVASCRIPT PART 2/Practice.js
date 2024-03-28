@@ -48,11 +48,46 @@
 // }
 
 
-let num=12;
-if (((num%3 === 0) && (num+1 == 15)) || ((num-1 == 11)))  {
-  console.log("safe")
-}
+// let num=12;
+// if (((num%3 === 0) && (num+1 == 15)) || ((num-1 == 11)))  {
+//   console.log("safe")
+// }
 
-else{
-  console.log("Unsafe")
-}
+// else{
+//   console.log("Unsafe")
+// }
+
+
+// let day = 7;
+// switch(day){
+//   case 1:
+//     console.log("monday");
+//     break;
+  
+//   case 2:
+//     console.log("tuesday") ;
+//     break;
+    
+//   case 3:
+//     console.log("wednesday");
+//     break;
+    
+//   case 4:
+//     console.log("Thusday");
+//     break;
+ 
+//   case 5:
+//     console.log("Friday");
+//     break;
+    
+//   case 6:
+//     console.log("Saturday");
+//     break;  
+ 
+//   default:
+//     console.log("Sunday")  
+// }
+
+
+// alert("wrong Password");
+
