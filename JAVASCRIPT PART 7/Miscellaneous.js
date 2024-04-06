@@ -11,3 +11,11 @@
 //    a*b
 // );
 // mul(5,5)
+
+
+// Set Timeout //
+// console.log("Hii There !!")
+// setTimeout(() => {
+//   console.log("Promit Techhools")
+// },4000)
+// console.log("Welcome to")
