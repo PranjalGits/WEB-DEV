@@ -19,3 +19,11 @@
 //   console.log("Promit Techhools")
 // },4000)
 // console.log("Welcome to")
+
+
+// set Interval //
+// let id1 = setInterval(() => {
+//   console.log("Promit Techhools")
+// }, 2000);
+
+// clearInterval(id1)
