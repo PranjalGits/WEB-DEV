@@ -116,3 +116,17 @@ html,body{
   background-size: cover;
   background-position: center;
 }
+
+@media(max-width: 500) {
+  #main {
+    flex-direction: column;
+  }
+
+  #main #left {
+    width: 100%;
+  }
+
+  #main #right {
+    width: 100%;
+  }
+}
